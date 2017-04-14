@@ -19,17 +19,21 @@ ul {
   list-style: none;
 }
 
+a {
+  color: white;
+  font-size: 18px;
+}
+
 .header {
   background-image: url(../images/the-flatiron-building.png);
+  background-position: center;
+  background-size: cover;
 }
 
 .design {
   background-image: url(../images/the-flatiron-building.png);
-}
-
-.navigation li {
-  font-size: 18px;
-  color: white;
+  background-position: center;
+  background-size: cover;
 }
 
 .icons h2 {

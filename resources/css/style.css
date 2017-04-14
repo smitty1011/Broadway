@@ -15,12 +15,16 @@ h3 {
   font-weight: bold;
 }
 
+ul {
+  list-style: none;
+}
+
 .header {
-  background-image: url();
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 .design {
-  background-image: url();
+  background-image: url(../images/the-flatiron-building.png);
 }
 
 .navigation li {
@@ -44,6 +48,7 @@ h3 {
 
 .footer {
   font-size: 11px;
+  text-align: left;
   background-color: dimgray;
   color: white;
 }

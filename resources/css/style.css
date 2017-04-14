@@ -1,0 +1,49 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  color: gray;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.header {
+  background-image: url();
+}
+
+.design {
+  background-image: url();
+}
+
+.navigation li {
+  font-size: 18px;
+  color: white;
+}
+
+.icons h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: gray;
+}
+
+.icons, .newyork p {
+  font-size: 14px;
+}
+
+.design h3 {
+  color: white;
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  color: white;
+}
